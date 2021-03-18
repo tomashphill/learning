@@ -1,4 +1,4 @@
-# D3 ARRAY
+# array.js
 
 this file exports the functions map and slice from the Array prototype object. The functions won't work on their own, since they are not bound to an object. Let's see how d3 handles this later.
 
